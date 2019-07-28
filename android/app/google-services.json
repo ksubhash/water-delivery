@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "401211898250",
+    "firebase_url": "https://exam-portal-d8a6a.firebaseio.com",
+    "project_id": "exam-portal-d8a6a",
+    "storage_bucket": "exam-portal-d8a6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401211898250:android:f012758f353d9b11",
+        "android_client_info": {
+          "package_name": "com.example.examportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401211898250-t87h84p42ffsgc8ic9tbun5lm74d3fhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANZ1JvMj3mUfmnDcAISd3KUqQ0R3NY39M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
